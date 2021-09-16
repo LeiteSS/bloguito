@@ -1,0 +1,23 @@
+.social-network {
+  display: inline;
+  padding: 0;
+}
+
+.social-network > li {
+  display: inline;
+  padding: 5px;
+  margin: 0;
+  font-size: 35px;
+}
+
+.icoGithub, .icoInstagram {
+  color: white;
+}
+
+.icoGithub:hover {
+  color: black;
+}
+
+.icoInstagram:hover {
+  color: purple;
+}
